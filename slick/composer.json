@@ -1,0 +1,12 @@
+{
+  "name": "karuppasamy-young-globes/slick",
+  "description": "Custom Slick carousel integration",
+  "type": "drupal-module",
+  "license": "GPL-2.0-or-later",
+  "require": {
+    "drupal/core": "^10"
+  },
+  "extra": {
+    "installer-name": "slick"
+  }
+}
